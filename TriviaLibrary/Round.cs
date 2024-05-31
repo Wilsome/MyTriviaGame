@@ -91,7 +91,7 @@ namespace TriviaLibrary
         /// </summary>
         /// <param name="player"></param>
         /// <param name="question"></param>
-        private void AskBooleanQuestion(Player player, Question question)
+        public void AskBooleanQuestion(Player player, Question question)
         {
 
             userOutput.WriteLine($"Player {player.Name}, here's your question:");
@@ -130,7 +130,7 @@ namespace TriviaLibrary
         /// </summary>
         /// <param name="player"></param>
         /// <param name="question"></param>
-        private void AskNonBooleanQuestion(Player player, Question question)
+        public void AskNonBooleanQuestion(Player player, Question question)
         {
 
             int attempts = 0;

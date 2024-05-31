@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameTest", "MyGameTest\MyGameTest.csproj", "{5B72EF74-3F52-4B4B-9A9E-DBB30441B989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{918C0658-50B0-4ECB-8B3C-4EDF9860CFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918C0658-50B0-4ECB-8B3C-4EDF9860CFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918C0658-50B0-4ECB-8B3C-4EDF9860CFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B72EF74-3F52-4B4B-9A9E-DBB30441B989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B72EF74-3F52-4B4B-9A9E-DBB30441B989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B72EF74-3F52-4B4B-9A9E-DBB30441B989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B72EF74-3F52-4B4B-9A9E-DBB30441B989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
